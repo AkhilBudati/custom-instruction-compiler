@@ -25,11 +25,7 @@ cd python/
 ### 1. Clone or Extract the Project
 
 If zipped, extract the folder. If from GitHub:
-
-```bash
-git clone <repo-url>
-cd cd\ python\src
-```
+download the zip file and extract the folder
 
 ### 2. Run the Compiler
 
@@ -51,11 +47,6 @@ python main.py input.txt
 - **IR Generation:** Builds an intermediate representation of code.
 - **Code Generation:** Outputs simplified machine-like code or target format.
 ---
-
-## 🖼 Sample Output
-output.png
----
-
 ## Notes
 
 - Tested with Python 3.10+
