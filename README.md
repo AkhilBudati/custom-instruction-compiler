@@ -1,6 +1,9 @@
-# custom-instruction-compiler
+# Simple Compiler Frontend (Python)
+
 This project implements a basic compiler frontend using Python. It includes key stages of compilation such as lexical analysis, parsing, intermediate representation (IR) generation, and code generation.
+
 ---
+
 ## Project Structure
 
 ```
@@ -21,19 +24,17 @@ cd python/
 ---
 
 ## How to Run
+github link : "https://github.com/AkhilBudati/custom-instruction-compiler"
 
 ### 1. Clone or Extract the Project
 
-If zipped, extract the folder. If from GitHub:
-download the zip file and extract the folder
+If zipped, extract the folder.
+
 
 ### 2. Run the Compiler
 
-Make sure you have Python 3 installed. In the terminal:
-
-```bash
-python main.py input.txt
-```
+Make sure you have Python 3 installed.
+now open the main file and run to get the output in the terminal
 
 - `input.txt` – contains the input code to compile
 
@@ -47,6 +48,7 @@ python main.py input.txt
 - **IR Generation:** Builds an intermediate representation of code.
 - **Code Generation:** Outputs simplified machine-like code or target format.
 ---
+
 ## Notes
 
 - Tested with Python 3.10+
