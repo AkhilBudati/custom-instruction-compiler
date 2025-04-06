@@ -53,8 +53,7 @@ python main.py input.txt
 ---
 
 ## 🖼 Sample Output
-
-![Output Screenshot](output.png)
+output.png
 ---
 
 ## Notes
