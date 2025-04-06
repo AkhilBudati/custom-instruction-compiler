@@ -54,7 +54,7 @@ python main.py input.txt
 
 ## 🖼 Sample Output
 
-![Output Screenshot](../cd python/output.png)
+![Output Screenshot](output.png)
 ---
 
 ## Notes
